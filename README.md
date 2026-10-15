@@ -1,5 +1,7 @@
 # AI·OSS 동아리 관리
 
+[공개 웹사이트](https://dju-swcu.github.io/ai-oss-clubs/) · [웹사이트 운영 안내](WEBSITE.md)
+
 [사업단 홈](https://github.com/DJU-SWCenteredUniversity) · [학생 프로젝트 공통 템플릿](https://github.com/DJU-SWCenteredUniversity/sw-project-template)
 
 동아리 소개, 연간 활동, 공개 프로젝트와 성과를 함께 기록하는 공간입니다. **현재는 기본 구조를 마련한 단계이며 동아리 등록·승인·활동 수집 기능은 준비 중입니다.**

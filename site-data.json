@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "site_kind": "clubs",
+  "updated_at": "2026-10-15",
+  "default_year": 2026,
+  "years": [
+    2026
+  ],
+  "source_list_url": "https://github.com/DJU-SWCU/ai-oss-clubs/blob/main/clubs/2026/README.md",
+  "items": []
+}
